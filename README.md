@@ -1,0 +1,1 @@
+SHA256: Comparing the energy consumption of different implementations
